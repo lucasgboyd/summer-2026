@@ -6,9 +6,9 @@
 
 ## Trip Legs
 
-1. **West Coast Road Trip:** Santa Barbara → Northern CA → Seattle → Olympic → Seattle
-2. **Mountain West Road Trip:** Seattle → Idaho → Jackson → Salt Lake City → Mammoth → Santa Barbara
-3. **East Coast:** Santa Barbara → Vermont → Maine (flights involved)
+1. **West Coast Road Trip (Jul 1 – Jul 27):** Santa Barbara → Sonoma → Seattle → Port Townsend (Simon's wedding) → Olympic NP → Seattle
+2. **Mountain West Road Trip (Jul 28 – Aug 26):** Seattle → Jackson, WY → Mammoth → Sierra backpacking → Santa Barbara (Emily & Hawkins wedding)
+3. **East Coast (Aug 27 – Sep 14):** Fly Santa Barbara → Vermont → Maine (Ellie's wedding) → Santa Barbara
 
 ## Quick Links
 

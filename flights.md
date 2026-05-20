@@ -2,8 +2,8 @@
 
 | Date | From → To | Airline | Flight # | Departure | Arrival | Confirmation | Cost | Booked? | Notes |
 |------|-----------|---------|----------|-----------|---------|--------------|------|---------|-------|
-| | SBA → ??? | | | | | | | ☐ | Outbound to East Coast |
-| | ??? → SBA | | | | | | | ☐ | Return from East Coast |
+| Thu Aug 27 | SBA → Vermont | | | | | | | ☐ | Outbound to East Coast |
+| Sat Sep 12 | Maine → SBA | | | | | | | ☐ | Return from East Coast |
 
 ## Baggage Rules
 
