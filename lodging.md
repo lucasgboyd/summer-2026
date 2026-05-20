@@ -5,7 +5,7 @@
 | Jul 1 | Jul 3 | Sonoma, CA | Jack's place | | | Jack | | ☐ | Staying with Jack |
 | Jul 3 | Jul 4 | Redwoods, CA | TBD | | | | | ☐ | Night 1 in redwoods |
 | Jul 4 | Jul 5 | Redwoods, CA | Elk Prairie Campground | | | | | ☐ | |
-| Jul 5 | Jul 6 | Oregon Coast | TBD | | | | | ☐ | 1 night on OR coast |
+| Jul 5 | Jul 6 | Oregon Coast (Yachats) | Cape Perpetua Campground (Siuslaw NF) | | | | | ☐ | Reserve via recreation.gov; near Cape Perpetua trails |
 | Jul 6 | Jul 17 | Seattle, WA | Lucas's mom's house | | | Mom | | ☐ | |
 | Jul 17 | Jul 19 | Port Townsend, WA | Airbnb (TBD) | | | | | ☐ | Simon's wedding |
 | Jul 19 | Jul 20 | Olympic NP | Kalaloch Campground | | | | | ☐ | |

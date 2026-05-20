@@ -14,7 +14,7 @@ Day-by-day plan. Columns: Date, Location, Lodging, Activity, Driving, Exercise, 
 | Thu Jul 2 | Sonoma | Jack's place (Sonoma) | | | | |
 | Fri Jul 3 | Redwoods | Redwoods (TBD) | | yes | | Drive Sonoma → Redwoods |
 | Sat Jul 4 | Redwoods | Elk Prairie Campground | | | | |
-| Sun Jul 5 | Oregon Coast | Oregon Coast (TBD) | | yes | | Drive Redwoods → Oregon Coast |
+| Sun Jul 5 | Oregon Coast | Cape Perpetua Campground | | yes | | Drive Redwoods → Cape Perpetua (Yachats) |
 | Mon Jul 6 | Seattle | Lucas's mom's | Arrive Seattle | yes | | |
 | Tue Jul 7 | Seattle | Lucas's mom's | | | | |
 | Wed Jul 8 | Seattle | Lucas's mom's | | | | |
