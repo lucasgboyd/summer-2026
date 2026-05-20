@@ -33,7 +33,7 @@ Day-by-day plan. Columns: Date, Location, Lodging, Activity, Driving, Exercise, 
 | Tue Jul 21 | Seattle | Lucas's mom's | | yes | | Drive Olympic → Seattle |
 | Wed Jul 22 | Seattle | Lucas's mom's | | | | |
 | Thu Jul 23 | Seattle | Lucas's mom's | | | | |
-| Fri Jul 24 | Seattle | Lucas's mom's | | | | |
+| Fri Jul 24 | Seattle | Lucas's mom's | Alabama Shakes concert (Tacoma) | yes | | ~35 min drive to Tacoma |
 | Sat Jul 25 | Seattle | Lucas's mom's | | | | |
 | Sun Jul 26 | Seattle | Lucas's mom's | | | | |
 | Mon Jul 27 | Seattle | Lucas's mom's | | | | |
