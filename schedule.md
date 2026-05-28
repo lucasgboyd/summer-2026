@@ -48,26 +48,26 @@ Day-by-day plan. Columns: Date, Location, Lodging, Activity, Driving, Exercise, 
 |------|----------|---------|----------|---------|----------|-------|
 | Tue Jul 28 | Seattle | Lucas's mom's | | | | |
 | Wed Jul 29 | Seattle | Lucas's mom's | | | | |
-| Thu Jul 30 | Seattle → Idaho | Idaho (TBD) | | yes | | Depart Seattle, overnight in Idaho |
-| Fri Jul 31 | Idaho → Jackson | Jackson (TBD) | | yes | | Arrive Jackson |
-| Sat Aug 1 | Jackson, WY | Jackson (TBD) | | | | |
-| Sun Aug 2 | Jackson, WY | | | | | |
-| Mon Aug 3 | Jackson, WY | | | | | |
-| Tue Aug 4 | Jackson, WY | | | | | |
-| Wed Aug 5 | Jackson, WY | | | | | |
-| Thu Aug 6 | Jackson, WY | | | | | |
-| Fri Aug 7 | Jackson, WY | | | | | |
-| Sat Aug 8 | Jackson, WY | | | | | |
-| Sun Aug 9 | Jackson, WY | | | | | |
-| Mon Aug 10 | Jackson, WY | | | | | |
-| Tue Aug 11 | Jackson, WY | | | | | |
-| Wed Aug 12 | Jackson → ? | | | yes | | Start drive to Mammoth |
-| Thu Aug 13 | Mammoth | Mammoth Airbnb (TBD) | | yes | | Arrive Mammoth |
-| Fri Aug 14 | Sierra | | Backpacking (Day 1) | | hike | |
+| Thu Jul 30 | Seattle → Sawtooths | Sawtooths (TBD) | | yes | | Drive Seattle → Sawtooths |
+| Fri Jul 31 | Sawtooths | | Backpacking | | hike | |
+| Sat Aug 1 | Sawtooths | | Backpacking | | hike | |
+| Sun Aug 2 | Sawtooths → Jackson | Jackson (TBD) | Backpacking | yes | hike | Exit Sawtooths, drive to Jackson |
+| Mon Aug 3 | Jackson, WY | Jackson (TBD) | | | | |
+| Tue Aug 4 | Jackson, WY | Jackson (TBD) | | | | |
+| Wed Aug 5 | Jackson, WY | Jackson (TBD) | Teton Crest Trail | | hike | |
+| Thu Aug 6 | Jackson, WY | Jackson (TBD) | | | | |
+| Fri Aug 7 | Wind River Range | | Backpacking | yes | hike | Drive Jackson → Wind River, start backpacking |
+| Sat Aug 8 | Wind River Range | | Backpacking | | hike | |
+| Sun Aug 9 | Wind River → SLC | SLC (TBD) | Backpacking | yes | hike | Exit Wind River, drive to Salt Lake City |
+| Mon Aug 10 | SLC → Mammoth | Mammoth Airbnb (TBD) | | yes | | Drive SLC → Mammoth |
+| Tue Aug 11 | Mammoth | Mammoth Airbnb (TBD) | | | | |
+| Wed Aug 12 | Mammoth | Mammoth Airbnb (TBD) | | | | |
+| Thu Aug 13 | Mammoth → Sierra | | Backpacking | | hike | Start Sierra backpacking |
+| Fri Aug 14 | Sierra | | Backpacking | | hike | |
 | Sat Aug 15 | Sierra | | Backpacking | | hike | |
-| Sun Aug 16 | Sierra | | Backpacking | | hike | |
-| Mon Aug 17 | Sierra | | Backpacking | | hike | |
-| Tue Aug 18 | Santa Barbara | | | yes | | Out of Sierra → home |
+| Sun Aug 16 | Sierra → Santa Barbara | | Backpacking | yes | hike | Exit Sierra, drive home |
+| Mon Aug 17 | Santa Barbara | | | | | |
+| Tue Aug 18 | Santa Barbara | | | | | |
 | Wed Aug 19 | Santa Barbara | | | | | |
 | Thu Aug 20 | Santa Barbara | | | | | |
 | Fri Aug 21 | Santa Barbara | | Emily & Hawkins wedding | | | |
